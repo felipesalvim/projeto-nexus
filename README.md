@@ -1,7 +1,3 @@
-Claro\! Formatei todo o conteúdo que você forneceu em um arquivo `README.md` completo, utilizando `#` para os títulos e ênfase nas partes importantes, como nomes de arquivos e conceitos-chave.
-
------
-
 # Website Institucional - Nexus Innova
 
 \<p align="center"\>
