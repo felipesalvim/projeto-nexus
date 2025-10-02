@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Banner do Projeto Nexus Innova">
+  <img src="/images/banner.png" alt="Banner do Projeto Nexus Innova">
 </p>
 
 # Website Institucional - Nexus Innova
