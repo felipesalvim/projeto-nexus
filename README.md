@@ -1,8 +1,5 @@
 # Website Institucional - Nexus Innova
 
-\<p align="center"\>
-\<img src="/images/captura-site.png" alt="Banner do Projeto Nexus Innova" width="1000"/\>
-\</p\>
 
 ## 📋 Índice
 
@@ -303,7 +300,7 @@ Este projeto é proprietário da **"Nexus Innova"**. Todos os direitos reservado
 
 **Nexus Innova**
 
-  * **Repositório Github:** [https://github.com/felipesalvim/projeto-nexus-innova](https://github.com/felipesalvim/projeto-nexus-innova)
+  * **Repositório Github:** [https://github.com/felipesalvim/projeto-nexus-innova](https://github.com/felipesalvim/projeto-nexus)
   * **Website:** [https://www.nexusinnova.com.br](https://www.nexusinnova.com.br)
   * **Email:** contato@nexusinnova.com.br
   * **Instagram:** @nexus_innova
